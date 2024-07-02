@@ -1,0 +1,21 @@
+Enable,init,Next,End,End
+Enable,Cancel Short DPOS output,Next,End,End
+Enable,Measure L1 ON,Next,End,End
+Enable,Measure L2 ON,Next,End,End
+Enable,Measure L3 ON,Next,End,End
+Enable,Measure UUT D3 ON,Next,End,End
+Enable,Measure UUT D4 ON,Next,End,End
+Enable,Measure UUT D5 ON,Next,End,End
+Enable,Measure UUT D6 ON,Next,End,End
+Enable,Measure UUT D7 ON,Next,End,End
+Enable,Measure UUT D8 ON,Next,End,End
+Enable,Measure UUT D9 ON,Next,End,End
+Enable,Measure Load APOS Voltages,Next,End,End
+Enable,Measure Load ANEG Voltages,Next,End,End
+Enable,Measure Load DPOS Voltages,Next,End,End
+Enable,Measure UUT APOS Voltages,Next,End,End
+Enable,Measure UUT ANEG Voltages,Next,End,End
+Enable,Measure UUT DPOS Voltages,Next,End,End
+Enable,Measure APOS Temperature,Next,End,End
+Enable,Measure ANEG Temperature,Next,End,End
+Enable,Measure DPOS Temperature,Next,End,End

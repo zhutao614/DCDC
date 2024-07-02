@@ -1,0 +1,4 @@
+Enable,Turn off SW1,Next,End,End
+Enable,init,Next,End,End
+Enable,Power OFF,Next,End,End
+Enable,Init_Relay,Next,End,End

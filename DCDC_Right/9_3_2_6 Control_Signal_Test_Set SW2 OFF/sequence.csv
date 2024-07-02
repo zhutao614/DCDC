@@ -1,0 +1,12 @@
+Enable,init,Next,End,End
+Enable,Set SW2 OFF,Next,End,End
+Enable,Measure L1 ON,Next,End,End
+Enable,Measure L3 ON,Next,End,End
+Enable,Measure UUT D3 ON,Next,End,End
+Enable,Measure UUT D5 ON,Next,End,End
+Enable,Measure UUT D6 ON,Next,End,End
+Enable,Measure UUT D8 ON,Next,End,End
+Enable,Measure APOS UUT Voltages_SW2_OFF,Next,End,End
+Enable,Measure ANEG UUT Voltages_SW2_OFF,Next,End,End
+Enable,Measure DPOS UUT Voltages_SW2_OFF,Next,End,End
+Enable,Clean,Next,End,End
